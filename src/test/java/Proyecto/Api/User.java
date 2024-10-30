@@ -1,4 +1,4 @@
 package Proyecto.Api;
-
-public class User {
+import Proyecto.Utils.BaseTest;
+public class User extends BaseTest {
 }
